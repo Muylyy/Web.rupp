@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:var(--font);
+}
+
+@font-face {
+    font-family: 'Noto Sans Khmer';
+    src: url('/resources/font/NotoSansKhmer-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  
+}
+
+
+:root{
+    --font: 'Noto Sans Khmer';
+    --green:#1f5a0a;
+    --gold:#cda404;
+    --white:#f0efef;
+    --nav-height:75px;
+}
+header{
+    width: 100%;
+    height: auto;
+
+    nav{
+        width:100% ;
+        height: var(--nav-height);
+        background-color:var(--green);
+
+        .navbar{
+            width: 100%;
+            height:100%;
+            ul{
+                width: 100%;
+                height: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: space-around;
+                padding:0 85px;
+                gap: 25px;
+
+                li{
+                    list-style-type: none;
+                    a{
+                        text-decoration: none;
+                        color: var(--white);
+                        font-size: 13px;
+                        img{
+                            width: 230px;
+                            height: 39px;
+                        }
+                    }
+                    a:hover{
+                        color: var(--gold);
+                    }
+                }
+            }
+        }
+    }
+}
+/* home */
+.custom-height{
+    height: 300px;
+}
