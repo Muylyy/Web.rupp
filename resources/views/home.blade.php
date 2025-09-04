@@ -16,7 +16,7 @@
                 <ul>
                     <li>
                         <a href="#">
-                            <img src=https://web-new.rupp.edu.kh/wp-content/uploads/2025/02/logo-rupp-for-web-.png"" alt="">
+                            <img src="https://web-new.rupp.edu.kh/wp-content/uploads/2025/02/logo-rupp-for-web-.png" alt="">
                         </a>
                     </li>
                     <li><a href="#">Home</a></li>
@@ -27,7 +27,7 @@
                     <li><a href="#">Student Life</a></li>
                     <li><a href="#">E-Library</a></li>
                     <li><a href="#">About Us</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Contaccccct Us</a></li>
                 </ul>
             </div>
     </header>
