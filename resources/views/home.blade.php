@@ -16,7 +16,7 @@
                 <ul>
                     <li>
                         <a href="#">
-                            <img src=https://web-new.rupp.edu.kh/wp-content/uploads/2025/02/logo-rupp-for-web-.png"" alt="">
+                            <img src=https://web-new.rupp.edu.kh/wp-content/uploads/2025/02/logo-rupp-for-web-.png" alt="">
                         </a>
                     </li>
                     <li><a href="#">Home</a></li>
@@ -38,34 +38,46 @@
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 3"></button>
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
             <!-- "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpEt4EEeczV_aMmvZmK3CN0eUzDPTBbsn2bhBWhI3M4oJcusZ_Ud5N15CKnQ0lCuiAqw&usqp=CAU" -->
             <img class="d-block w-100 custom-height bg-danger"  src="" alt="...">
             <div class="carousel-caption d-none d-md-block">
-              <h5>First slide label</h5>
-              <p>Some representative placeholder content for the first slide.</p>
+              <h5>Royal University of Phnom Penh:Excellence in Education</h5>
+              <p>Discover Cambodia's largest and oldest university, where education, research, and service to society come together to shape future leaders and innovators.</p>
             </div>
           </div>
           <div class="carousel-item" data-bs-interval="2000">
-            <img src="..." class="d-block w-100" alt="...">
+            <img src="..." class="d-block w-100 custom-height bg-body-secondary" alt="...">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Second slide label</h5>
-              <p>Some representative placeholder content for the second slide.</p>
+              <h5>Global Partnerships for a Brighter Future</h5>
+              <p>RUPP fosters global connections to enhance learning opportunities and cultural exchange for students and staff.</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="..." class="d-block w-100" alt="...">
+            <img src="..." class="d-block w-100 custom-height bg-info" alt="...">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Third slide label</h5>
-              <p>Some representative placeholder content for the third slide.</p>
+              <h5>Diverse Faculties and Institutes</h5>
+              <p>Explore a wide range of academic programs from Science, Social Sciences, Engineering, and Humanities to the renowned Institute of Foreign Languages and Development Studies.</p>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="..." class="d-block w-100 custom-height bg-success" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Research and Innovation</h5>
+              <p>RUPP is at the forefront of innovation, driving impactful research in science, technology, and social development to address real-world challenges</p>
             </div>
           </div>
         </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
           </button>
           <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
