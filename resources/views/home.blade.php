@@ -22,7 +22,7 @@
                     </li>
                     <li><a href="#">Hoooome</a></li>
                     <li><a href="#">Acadddddddemic</a></li>
-                    <li><a href="#">Centers & Offices</a></li>
+                    <li><a href="#">Centtttttters & Offices</a></li>
                     <li><a href="#">Researchs & Projects</a></li>
                     <li><a href="#">Scholarships & News</a></li>
                     <li><a href="#">Student Life</a></li>
