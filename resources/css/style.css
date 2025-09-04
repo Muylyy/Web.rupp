@@ -65,3 +65,6 @@ header{
 .custom-height{
     height: 300px;
 }
+.margin-main{
+    margin: 25px,120px,0,120px;
+}

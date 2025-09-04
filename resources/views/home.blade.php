@@ -19,7 +19,7 @@
                             <img src="https://web-new.rupp.edu.kh/wp-content/uploads/2025/02/logo-rupp-for-web-.png" alt="">
                         </a>
                     </li>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Hoooome</a></li>
                     <li><a href="#">Academic</a></li>
                     <li><a href="#">Centers & Offices</a></li>
                     <li><a href="#">Researchs & Projects</a></li>
@@ -32,12 +32,15 @@
             </div>
     </header>
     <!-- home -->
+
      <section>
       <div id="carouselExampleDark" class="carousel carousel-dark slide">
         <div class="carousel-indicators">
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 3"></button>
+
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="10000">
@@ -49,7 +52,7 @@
             </div>
           </div>
           <div class="carousel-item" data-bs-interval="2000">
-            <img src="..." class="d-block w-100" alt="...">
+            <img src="..." class="d-block w-100 custom-height bg-secondary" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <h5>Second slide label</h5>
               <p>Some representative placeholder content for the second slide.</p>
