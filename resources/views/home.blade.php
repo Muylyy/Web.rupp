@@ -28,7 +28,7 @@
                     <li><a href="#">Student Life</a></li>
                     <li><a href="#">E-Library</a></li>
                     <li><a href="#">About Us</a></li>
-                    <li><a href="#">Contaccccct Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
                 </ul>
             </div>
     </header>
