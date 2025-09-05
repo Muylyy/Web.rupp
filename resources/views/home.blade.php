@@ -20,7 +20,7 @@
                             <img src="https://web-new.rupp.edu.kh/wp-content/uploads/2025/02/logo-rupp-for-web-.png" alt="">
                         </a>
                     </li>
-                    <li><a href="#">Hoooome</a></li>
+                    <li><a href="#">Home</a></li>
                     <li><a href="#">Academic</a></li>
                     <li><a href="#">Centers & Offices</a></li>
                     <li><a href="#">Researchs & Projects</a></li>
